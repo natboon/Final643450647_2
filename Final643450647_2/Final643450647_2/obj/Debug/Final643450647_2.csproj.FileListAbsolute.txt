@@ -1,0 +1,11 @@
+D:\Github\Final643450647_2\Final643450647_2\Final643450647_2\bin\Debug\Final643450647_2.exe.config
+D:\Github\Final643450647_2\Final643450647_2\Final643450647_2\bin\Debug\Final643450647_2.exe
+D:\Github\Final643450647_2\Final643450647_2\Final643450647_2\bin\Debug\Final643450647_2.pdb
+D:\Github\Final643450647_2\Final643450647_2\Final643450647_2\obj\Debug\Final643450647_2.csproj.AssemblyReference.cache
+D:\Github\Final643450647_2\Final643450647_2\Final643450647_2\obj\Debug\Final643450647_2.csproj.SuggestedBindingRedirects.cache
+D:\Github\Final643450647_2\Final643450647_2\Final643450647_2\obj\Debug\Final643450647_2.Form1.resources
+D:\Github\Final643450647_2\Final643450647_2\Final643450647_2\obj\Debug\Final643450647_2.Properties.Resources.resources
+D:\Github\Final643450647_2\Final643450647_2\Final643450647_2\obj\Debug\Final643450647_2.csproj.GenerateResource.cache
+D:\Github\Final643450647_2\Final643450647_2\Final643450647_2\obj\Debug\Final643450647_2.csproj.CoreCompileInputs.cache
+D:\Github\Final643450647_2\Final643450647_2\Final643450647_2\obj\Debug\Final643450647_2.exe
+D:\Github\Final643450647_2\Final643450647_2\Final643450647_2\obj\Debug\Final643450647_2.pdb
